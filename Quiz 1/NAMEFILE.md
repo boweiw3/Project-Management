@@ -13,6 +13,6 @@ Abisay Salgado
 Logan Patterson  
 Annie Wang   
 Jade Carthans   
-Elisha Longfellow   
-Yu Xia
+Elisha Longfellow  
 Bowei Wang
+Yu Xia
