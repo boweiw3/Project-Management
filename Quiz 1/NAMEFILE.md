@@ -14,5 +14,5 @@ Logan Patterson
 Annie Wang   
 Jade Carthans   
 Elisha Longfellow  
-Bowei Wang
+Bowei Wang  
 Yu Xia
